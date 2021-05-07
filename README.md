@@ -4,7 +4,7 @@ Welcome to one of my many senior projects (and probably favorite!) where I use d
 
 <p float="center">
   <img src="manhattan_aerial_view.jpg" width="250" height="200" />
-  <img src="manhattan_poylgon_of_data.png" width="250" height="200" /> 
+  <img src="manhattan_polygon_of_data.png" width="250" height="200" /> 
 </p>
 
 
