@@ -2,6 +2,20 @@
 
 Welcome to one of my many senior projects (and probably favorite!) where I use data analysis and machine learning to solve a real-world problem. 
 
+br>
+<p align="center">
+  <img height="200" width="250" src="manhattan_aerial_view.jpeg" />
+  <br>
+  <em>Real aerial view of Manhattan</em>
+</p>
+
+br>
+<p align="center">
+  <img height="200" width="250" src="manhattan_poylgon_of_data" />
+  <br>
+  <em>Manhattan coming to life with data!</em>
+</p>
+
 Now that we have Uber & Lyft, we can finally tell just how long it'll take to get to our final destination when ride-sharing. How do they know?! Well, good  predictive models! In this project I explore NYC taxi data for how features can be used, or new ones engineered, to train and test different types of models that predict taxi ride duration. In the end I check each model's performance and choose the most successful. Below is a more detailed breakdown of my work throughout each stage of the data science lifecycle. Hope you enjoy!
 
 1. Data Selection and Cleaning
