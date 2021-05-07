@@ -4,9 +4,7 @@ Welcome to one of my many senior projects (and probably favorite!) where I use d
 
 <p float="center">
   <img src="manhattan_aerial_view.jpeg" width="250" height="200" />
-  <em>Real aerial view of Manhattan</em>
   <img src="manhattan_poylgon_of_data" width="250" height="200" /> 
-  <em>Manhattan coming to life with data!</em>
 </p>
 
 
